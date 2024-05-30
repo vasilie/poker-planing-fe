@@ -1,7 +1,7 @@
 module.exports = {
   apps: [
     {
-      name: "Poker planning app",
+      name: "Poker planning be",
       exec_mode: "cluster",
       instances: "1",
       script: "./app.js", // your script
